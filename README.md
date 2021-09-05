@@ -30,6 +30,5 @@ ENVIRONMENTAL SETUP
   - $list - shows the list of summoners that are in the database
   - $summoner name - shows the stats of the player
   - $live - will send a message to the server stating whether the player is in game or not
-  - 
 
 
